@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+Version 0.0.6 (27-Nov-2017)
+-------------
+
+ * Question to Myself: My friends went for a trip, here I'm fixing bugs on weekend, will I ever release this app?.
+
 Version 0.0.5
 -------------
 
