@@ -1,5 +1,8 @@
 Change Log
 ==========
+Version 0.0.7 (08-Jan-2017)
+-------------
+* Note: Still not released the app. Atleast verify the notification is working.
 
 Version 0.0.6 (27-Nov-2017)
 -------------
