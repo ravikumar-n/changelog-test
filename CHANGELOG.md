@@ -1,11 +1,11 @@
 Change Log
 ==========
-Version 0.0.8 (08-Jan-2017)
+Version 0.0.8 (11-Feb-2018)
 -------------
 * Note: [Google sign in not working after publishing in play store](https://stackoverflow.com/questions/39318370/google-sign-in-not-working-after-publishing-in-play-store)
  
 
-Version 0.0.7 (08-Jan-2017)
+Version 0.0.7 (08-Jan-2018)
 -------------
 * Note: Still not released the app. Atleast verify the notification is working.
 
