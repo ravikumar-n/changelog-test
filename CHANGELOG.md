@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+Version 0.1.1 (22-Mar-2018)
+-------------
+
+* Testing server side changes.
+
 Version 0.1.0 (21-Mar-2018)
 -------------
 
