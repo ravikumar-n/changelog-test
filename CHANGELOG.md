@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+Version 0.1.2 (24-Mar-2018)
+-------------
+
+* Testing push notification icon is working or not in beta release.
+
 Version 0.1.1 (22-Mar-2018)
 -------------
 
